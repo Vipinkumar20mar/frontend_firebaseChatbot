@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+
+streamlit
+requests
+
+firebase-admin
+pyrebase4
+
+langgraph
+langchain
+langchain-groq
+
+psycopg[binary]
+python-dotenv
+psycopg_pool
+
