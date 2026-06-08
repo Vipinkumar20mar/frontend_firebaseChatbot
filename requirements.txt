@@ -12,6 +12,8 @@ langchain
 langchain-groq
 
 psycopg[binary]
+langgraph.checkpoint.postgres
 python-dotenv
 psycopg_pool
+
 
